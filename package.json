@@ -20,6 +20,10 @@
   ],
   "author": "Diego Armando Cacilha",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diegocacilha/nfe-processor"
+  },
   "dependencies": {
     "xml2js": "^0.6.2"
   }
