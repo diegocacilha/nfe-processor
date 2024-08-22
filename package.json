@@ -1,0 +1,26 @@
+{
+  "name": "nfe-processor",
+  "version": "1.0.9",
+  "description": "Este módulo processa o XML de uma nota fiscal eletrônica (NF-e) e retorna uma lista de produtos em formato JSON, excluindo informações sobre impostos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nfe",
+    "nota fiscal eletrônica",
+    "produtos nota fiscal eletrônica",
+    "parser nfe",
+    "parser",
+    "produtos nfe",
+    "produtos nota fiscal eletrônica",
+    "xml",
+    "xml nfe",
+    "xml nota fiscal eletrônica"
+  ],
+  "author": "Diego Armando Cacilha",
+  "license": "MIT",
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  }
+}
